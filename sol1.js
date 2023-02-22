@@ -1,5 +1,5 @@
 // Code 11: Remove a char from String
-var char = "Masai";
+var char = "suraj";
 var output = "";
 for(var i=0; i<char.length; i++)
 {
